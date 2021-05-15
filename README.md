@@ -1,1 +1,1 @@
-# dotnet-lab1
+# .net-lab1 - Buhos Teodora
